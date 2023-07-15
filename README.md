@@ -5,4 +5,6 @@ Each script has prompts used to generate the code if that script has been made w
 I have no rights to the music used.
 This is a learning project and a quick prototype.
 
+The files are in master branch. the builds are there too.
+
 https://prasinshrestha.itch.io/anxious-neko
